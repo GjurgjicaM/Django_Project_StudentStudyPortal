@@ -11,7 +11,7 @@ The Student Study Portal is a web application built with Django, designed to ass
 ## Technologies
 
 - **Backend**: Django, Python
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 
 - **Database**: SQLite (configurable for other databases)
 
 ## Setup
